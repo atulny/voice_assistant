@@ -25,11 +25,12 @@ generate responses, and convert text back to speech, all while showcasing a slee
     cd  voice-assistant
     ```
 4. Create and activate virtual environment:
+   python 3.9
     ```bash
     python -m venv venv
     venv/Scripts/activate
     ```
-5. Install the required libraries:
+6. Install the required libraries:
     ```bash
     pip install -r requirements.txt
     ```
